@@ -1,0 +1,3 @@
+﻿PyQt5
+pygame
+requests
